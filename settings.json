@@ -1,0 +1,8 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false
+}
